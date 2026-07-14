@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Sneha Shrivastav 👋
 
-<!--
-**Snehashrivastavgithub/Snehashrivastavgithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Graduate
+🔐 Aspiring Cybersecurity Professional
+🤖 Learning AI & Ethical Hacking
 
-Here are some ideas to get you started:
+## Tech Stack
+- Python
+- Java
+- C++
+- HTML, CSS, JavaScript
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- Ethical Hacking
+- Network Security
+- AI Tools
